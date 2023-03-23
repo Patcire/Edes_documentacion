@@ -7,9 +7,20 @@ y hacer los cálculos de caja por cada compra.
 
 Este proyecto está actualmente **en desarrollo**.
 
+Última modificación: 23/03/2023
+
 ------------------
 
-Autor: *Patricio Cifredo*
+*Ejemplo de una de las funciones que contiene*:
+
+`code`  
+override fun calcular_precio(cantidad:Int):Double {
+return cantidad*precio
+}
+
+
+------
+## Autor: *Patricio Cifredo*
 
 
 
